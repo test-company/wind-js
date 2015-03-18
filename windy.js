@@ -9,6 +9,7 @@
     The "start" method takes the bounds of the map at its current extent and starts the whole gridding,
     interpolation and animation process.
 */
+//test write
 
 var Windy = function( params ){
   var VELOCITY_SCALE = 0.011;             // scale for wind velocity (completely arbitrary--this value looks nice)
